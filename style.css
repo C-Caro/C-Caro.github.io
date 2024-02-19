@@ -1,0 +1,28 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #D0D9D4;
+background-color: #298073
+}
+
+p{
+font-size: 16px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+.center-container {
+  # display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-container img{
+	width: 250px;
+	height: auto;
+	padding: 20px;
+}
+
+body {
+background-color: #D0D9D4;
+}
